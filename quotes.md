@@ -7,5 +7,8 @@
   - title: "The Princess of colours"
   - date: "05-01-2020"
   - quote: "പ്രകൃതിയുടെ എല്ലാ ചായങ്ങളും  ആത്മാവിൽ ചാർത്തിയ നിന്നെ എന്റെ ഉള്ളിലെ ഇരുട്ടിനു നിറം പകരുവാൻ ക്ഷണിക്കാത്തതു നിന്നിൽ നിറഞ്ഞു തുളുമ്പുന്ന  പ്രകാശം എന്നിലെ എരിയുന്ന അന്ധകാരത്താൽ മൂടപ്പെടാതിരിക്കുവാനാണു."
-
+- 
+  - title: "Truth"
+  - date: "05-02-2018"
+  - quote: "Truth is like lightning, serene to watch from a distance, but when it strikes nearby, best hide."
 --
